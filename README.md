@@ -279,10 +279,6 @@ The application automatically updates at the following intervals:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/predicta-eth-cannes](https://github.com/yourusername/predicta-eth-cannes)
-- **Demo**: [https://predicta-eth-cannes.vercel.app](https://predicta-eth-cannes.vercel.app)
 
 ## 🙏 Acknowledgments
 
