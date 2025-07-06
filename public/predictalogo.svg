@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_2" data-name="katman 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 195.32 247.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Adsız_degrade_118-3);
+      }
+
+      .cls-2 {
+        fill: url(#Adsız_degrade_118-4);
+      }
+
+      .cls-3 {
+        fill: url(#Adsız_degrade_118);
+      }
+
+      .cls-4 {
+        fill: url(#Adsız_degrade_118-2);
+      }
+    </style>
+    <radialGradient id="Adsız_degrade_118" data-name="Adsız degrade 118" cx="21.73" cy="72.07" fx="21.73" fy="72.07" r="197.78" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#94ea95"/>
+      <stop offset=".57" stop-color="#48e5ff"/>
+      <stop offset=".89" stop-color="#ae87e1"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_118-2" data-name="Adsız degrade 118" r="197.78" xlink:href="#Adsız_degrade_118"/>
+    <radialGradient id="Adsız_degrade_118-3" data-name="Adsız degrade 118" gradientTransform="translate(43 -16.59) rotate(45)" xlink:href="#Adsız_degrade_118"/>
+    <radialGradient id="Adsız_degrade_118-4" data-name="Adsız degrade 118" gradientTransform="translate(114.72 13.12) rotate(45)" xlink:href="#Adsız_degrade_118"/>
+  </defs>
+  <g id="katman_1" data-name="katman 1">
+    <g>
+      <path class="cls-3" d="M138.87,93.71c0-23.12-18.81-41.93-41.93-41.93s-41.93,18.81-41.93,41.93,18.81,41.93,41.93,41.93,41.93-18.81,41.93-41.93ZM65.01,93.71c0-17.6,14.32-31.93,31.93-31.93s31.93,14.32,31.93,31.93-14.32,31.93-31.93,31.93-31.93-14.32-31.93-31.93Z"/>
+      <path class="cls-4" d="M195.32,90.76C195.32,40.14,156.48,1.72,104.44.17v-.17h-15v44.61s15,0,15,0V15.19c43.48,1.54,75.88,33.5,75.88,75.57,0,39.14-33.31,71.44-75.88,75.38v-24.99h-15v106.33h15v-66.3c50.86-4.06,90.88-43.07,90.88-90.43Z"/>
+      <path class="cls-3" d="M118.18,93.71c0-11.71-9.53-21.24-21.24-21.24s-21.24,9.53-21.24,21.24,9.53,21.24,21.24,21.24,21.24-9.53,21.24-21.24Z"/>
+      <rect class="cls-3" y="85.57" width="45.35" height="15"/>
+      <rect class="cls-1" x="34.02" y="20.57" width="15" height="46.08" transform="translate(-18.68 42.13) rotate(-45)"/>
+      <rect class="cls-2" x="18.48" y="137.53" width="46.08" height="15" transform="translate(-90.39 71.84) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

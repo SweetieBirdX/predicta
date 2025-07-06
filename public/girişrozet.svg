@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_2" data-name="katman 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308.48 308.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #edb2a9;
+        stroke: #cc9792;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 10px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #875147;
+        stroke: #77453e;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #593f3a;
+      }
+
+      .cls-4 {
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <g id="katman_1" data-name="katman 1">
+    <g>
+      <circle class="cls-1" cx="154.24" cy="154.24" r="149.24"/>
+      <g>
+        <circle class="cls-3" cx="154.24" cy="173.94" r="49.9"/>
+        <circle class="cls-2" cx="154.24" cy="173.94" r="21.95"/>
+        <line class="cls-4" x1="154.24" y1="260.48" x2="154.24" y2="238.64"/>
+        <line class="cls-4" x1="154.24" y1="109.29" x2="154.24" y2="48"/>
+      </g>
+    </g>
+  </g>
+</svg>
